@@ -4,6 +4,8 @@
 📍 Lucknow, Uttar Pradesh, India 📧 [vipinkushwaha2108@gmail.com](mailto:vipinkushwaha2108@gmail.com) |🔗 [LinkedIn](https://linkedin.com/in/vipinkushwaha01) | [GitHub](https://github.com/CommitCraft)  
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 💻 About Me
 
@@ -54,8 +56,6 @@ I'm a passionate **Full-Stack Developer** with expertise in **MERN stack**, **Re
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Commitcraft&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Commitcraft&limit=5&theme=dark&combine_all_yearly_contributions=true)
