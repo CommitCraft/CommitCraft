@@ -119,110 +119,163 @@ and industrial monitoring dashboards that solve real-world problems.
 
 ### 🏭 Manufacturing, Quality & Industrial Systems
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### 1. UKB Server Dashboard
+**[View Repository →](https://github.com/CommitCraft/ukb_server_dashboard)**
 
-<h3><a href="https://github.com/CommitCraft/ukb_server_dashboard">UKB Server Dashboard</a></h3>
-<p>Manufacturing operations dashboard for real-time monitoring and industrial integration.</p>
+A manufacturing operations dashboard designed to bring production-related information and operational services into a centralized interface. The project focuses on dashboard-based monitoring and integration with backend services and industrial automation workflows.
 
-<p><code>Operations</code> <code>Dashboards</code> <code>Industrial IoT</code></p>
+**Key Areas**
 
-</td>
-<td width="50%" valign="top">
+- Manufacturing and operational dashboards
+- Backend API integration
+- Industrial data connectivity
+- Production information visibility
 
-<h3><a href="https://github.com/CommitCraft/QMS-Quality-Management-System">Quality Management System (QMS)</a></h3>
-<p>Quality workflows, records, reporting, and administration in one web application.</p>
+**Technologies:** React, Vite, Node.js, Express.js, MySQL, Node-RED
 
-<p><code>Quality</code> <code>Workflows</code> <code>Reporting</code></p>
+#### 2. Quality Management System (QMS)
+**[View Repository →](https://github.com/CommitCraft/QMS-Quality-Management-System)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A web-based quality management application for organizing quality-related records, workflows, and administrative operations. It provides a structured application environment for managing quality information and supporting reporting and access management.
 
-<h3><a href="https://github.com/CommitCraft/Digital_CheckSheet">Digital CheckSheet</a></h3>
-<p>Digital checklist application for structured operational records and workflow management.</p>
+**Key Areas**
 
-<p><code>Digital Forms</code> <code>Operations</code> <code>Records</code></p>
+- Quality workflow management
+- Record organization and reporting
+- Administrative operations
+- User access management
 
-</td>
-<td width="50%" valign="top">
+**Technologies:** React, TypeScript, Node.js, Express.js, MySQL, Sequelize
 
-<h3><a href="https://github.com/CommitCraft/4M_Change_Module">4M Change Management System</a></h3>
-<p>Change management for Man, Machine, Material, and Method, with review and approval workflows.</p>
+#### 3. Digital CheckSheet
+**[View Repository →](https://github.com/CommitCraft/Digital_CheckSheet)**
 
-<p><code>Manufacturing</code> <code>Approvals</code> <code>Role-based Access</code></p>
+A digital checklist project intended to organize checklist-based activities through a web application. It focuses on replacing fragmented or paper-based record keeping with structured digital forms and accessible operational information.
 
-</td>
-</tr>
-</table>
+**Key Areas**
+
+- Digital checklist workflows
+- Form-based data entry
+- Checklist record management
+- Operational information organization
+
+**Technologies:** See the repository for the confirmed implementation stack.
+
+#### 4. 4M Change Management System
+**[View Repository →](https://github.com/CommitCraft/4M_Change_Module)**
+
+A change management application for documenting and reviewing changes involving **Man, Machine, Material, and Method**. It supports a structured approval workflow so changes can be submitted, reviewed, and tracked by the appropriate roles.
+
+**Key Areas**
+
+- 4M change requests
+- Multi-level approval workflows
+- Role-based access control
+- Change tracking and audit logs
+
+**Technologies:** React, Node.js, Express.js, MySQL, Sequelize
 
 ### 💼 Business & Productivity Applications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### 1. FinCore
+**[View Repository →](https://github.com/CommitCraft/FinCore)**
 
-<h3><a href="https://github.com/CommitCraft/FinCore">FinCore</a></h3>
-<p>Finance management application for expense tracking, reports, and salary-advance requests.</p>
+A finance management application for tracking expenses, managing financial records, and supporting employee or user-facing financial workflows. It is structured around maintaining clear and organized financial operations.
 
-<p><code>Finance</code> <code>Expense Tracking</code> <code>Reports</code></p>
+**Key Areas**
 
-</td>
-<td width="50%" valign="top">
+- Expense tracking
+- Financial reporting
+- Salary advance requests
+- Administrative approval workflows
 
-<h3><a href="https://github.com/CommitCraft/Ticket_Management">Ticket Management System</a></h3>
-<p>Helpdesk system for ticket creation, assignment, replies, notifications, and reporting.</p>
+**Technologies:** React, Node.js, Express.js, MySQL, MongoDB
 
-<p><code>Helpdesk</code> <code>Team Workflows</code> <code>Support</code></p>
+#### 2. Ticket Management System
+**[View Repository →](https://github.com/CommitCraft/Ticket_Management)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A helpdesk and ticketing application for managing service requests from creation to resolution. It supports structured communication, assignment, updates, and record keeping in a team environment.
 
-<h3><a href="https://github.com/CommitCraft/taskmanager">Task Manager</a></h3>
-<p>Task organization and assignment for teams, with priorities, subtasks, and collaboration.</p>
+**Key Areas**
 
-<p><code>Task Tracking</code> <code>Collaboration</code> <code>Teams</code></p>
+- Ticket assignment
+- Team collaboration
+- Response tracking
+- Support workflow management
 
-</td>
-<td width="50%" valign="top">
+**Technologies:** React, Node.js, Express.js, MongoDB
 
-<h3><a href="https://github.com/CommitCraft/Expense-Tracker-App">Expense Tracker</a></h3>
-<p>Personal finance application for tracking income, expenses, and transactions.</p>
+#### 3. Task Manager
+**[View Repository →](https://github.com/CommitCraft/taskmanager)**
 
-<p><code>Personal Finance</code> <code>Transactions</code> <code>Tracking</code></p>
+A task management solution designed to help teams organize work items, assign responsibilities, and track progress over time. It supports collaborative project coordination with a focus on clarity and visibility.
 
-</td>
-</tr>
-</table>
+**Key Areas**
+
+- Task assignment
+- Prioritization and progress tracking
+- Team collaboration
+- Activity visibility
+
+**Technologies:** React, Node.js, Express.js, MongoDB
+
+#### 4. Expense Tracker
+**[View Repository →](https://github.com/CommitCraft/Expense-Tracker-App)**
+
+A personal finance tracker for recording income and expenses while keeping transaction data organized and easy to review. It is designed to help users monitor spending patterns and maintain a clear financial overview.
+
+**Key Areas**
+
+- Income and expense tracking
+- Transaction organization
+- Budget awareness
+- Financial overview
+
+**Technologies:** React, Node.js, Express.js, MongoDB
 
 ### 🌐 Websites & Web Applications
 
-<table>
-<tr>
-<td width="33%" valign="top">
+#### 1. Vedixa Technologies Website
+**[View Repository →](https://github.com/CommitCraft/Vedixa-Technologies-New)**
 
-<h3><a href="https://github.com/CommitCraft/Vedixa-Technologies-New">Vedixa Technologies Website</a></h3>
-<p>Corporate website with a modern UI and responsive service presentation.</p>
+A corporate website project focused on presenting business services and company details through a modern, responsive interface.
 
-</td>
-<td width="33%" valign="top">
+**Key Areas**
 
-<h3><a href="https://github.com/CommitCraft/Aplos-Logix-New-Website">Aplos Logix Website</a></h3>
-<p>Professional business website for presenting company information and services.</p>
+- Business presentation
+- Service showcasing
+- Responsive layout
+- UI components
 
-</td>
-<td width="33%" valign="top">
+**Technologies:** React, Vite, Tailwind CSS
 
-<h3><a href="https://github.com/CommitCraft/visitor-management-system-react-main">Visitor Management System</a></h3>
-<p>Visitor information management with digital records and administrative workflows.</p>
+#### 2. Aplos Logix Website
+**[View Repository →](https://github.com/CommitCraft/Aplos-Logix-New-Website)**
 
-</td>
-</tr>
-</table>
+A business website showcasing services and organizational information using a professional digital presence and a user-friendly interface.
+
+**Key Areas**
+
+- Service presentation
+- Responsive website design
+- Navigation and content structure
+- Frontend development
+
+**Technologies:** React, Vite, Tailwind CSS
+
+#### 3. Visitor Management System
+**[View Repository →](https://github.com/CommitCraft/visitor-management-system-react-main)**
+
+A visitor management web application focused on organizing visitor records, checking in users, and supporting operational administration tasks.
+
+**Key Areas**
+
+- Visitor data management
+- Record organization
+- Administrative workflows
+- Digital visitor tracking
+
+**Technologies:** React, Node.js, Express.js, MongoDB
 
 ## 🎯 Areas of Interest
 
