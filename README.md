@@ -42,12 +42,61 @@ and industrial monitoring dashboards that solve real-world problems.
 
 <h2>⚙️ Tech Stack</h2>
 
-<p><strong>🖥️ Frontend</strong><br>React · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS</p>
-<p><strong>🧩 Backend</strong><br>Node.js · Express.js · REST APIs</p>
-<p><strong>🗄️ Databases</strong><br>MongoDB · MySQL · Sequelize · Firebase · SQLite</p>
-<p><strong>📱 Mobile</strong><br>Android · Kotlin · Java · React Native</p>
-<p><strong>🏭 Industrial IoT</strong><br>Node-RED · Modbus · Chart.js</p>
-<p><strong>🛠️ Tools &amp; Deployment</strong><br>Git · GitHub · Postman · PowerShell · Vercel · Netlify · Render</p>
+<p><strong>🖥️ Frontend</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p><strong>🧩 Backend</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST-API-FF6B6B?style=for-the-badge" alt="REST API" />
+</p>
+
+<p><strong>🗄️ Databases</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+<p><strong>📱 Mobile</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+<p><strong>🏭 Industrial IoT</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" alt="Node-RED" />
+  <img src="https://img.shields.io/badge/Modbus-2E6C8E?style=for-the-badge" alt="Modbus" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+</p>
+
+<p><strong>🛠️ Tools</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
+
+<p><strong>🚀 Deployment</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+</p>
 
 </td>
 </tr>
@@ -100,7 +149,7 @@ and industrial monitoring dashboards that solve real-world problems.
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/CommitCraft/4M_Change_Module">4M Change Management</a></h3>
+<h3><a href="https://github.com/CommitCraft/4M_Change_Module">4M Change Management System</a></h3>
 <p>Change management for Man, Machine, Material, and Method, with review and approval workflows.</p>
 
 <p><code>Manufacturing</code> <code>Approvals</code> <code>Role-based Access</code></p>
@@ -156,7 +205,7 @@ and industrial monitoring dashboards that solve real-world problems.
 <tr>
 <td width="33%" valign="top">
 
-<h3><a href="https://github.com/CommitCraft/Vedixa-Technologies-New">Vedixa Technologies</a></h3>
+<h3><a href="https://github.com/CommitCraft/Vedixa-Technologies-New">Vedixa Technologies Website</a></h3>
 <p>Corporate website with a modern UI and responsive service presentation.</p>
 
 </td>
