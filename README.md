@@ -119,163 +119,43 @@ and industrial monitoring dashboards that solve real-world problems.
 
 ### 🏭 Manufacturing, Quality & Industrial Systems
 
-#### 1. UKB Server Dashboard
-**[View Repository →](https://github.com/CommitCraft/ukb_server_dashboard)**
-
-A manufacturing operations dashboard designed to bring production-related information and operational services into a centralized interface. The project focuses on dashboard-based monitoring and integration with backend services and industrial automation workflows.
-
-**Key Areas**
-
-- Manufacturing and operational dashboards
-- Backend API integration
-- Industrial data connectivity
-- Production information visibility
-
-**Technologies:** React, Vite, Node.js, Express.js, MySQL, Node-RED
-
-#### 2. Quality Management System (QMS)
-**[View Repository →](https://github.com/CommitCraft/QMS-Quality-Management-System)**
-
-A web-based quality management application for organizing quality-related records, workflows, and administrative operations. It provides a structured application environment for managing quality information and supporting reporting and access management.
-
-**Key Areas**
-
-- Quality workflow management
-- Record organization and reporting
-- Administrative operations
-- User access management
-
-**Technologies:** React, TypeScript, Node.js, Express.js, MySQL, Sequelize
-
-#### 3. Digital CheckSheet
-**[View Repository →](https://github.com/CommitCraft/Digital_CheckSheet)**
-
-A digital checklist project intended to organize checklist-based activities through a web application. It focuses on replacing fragmented or paper-based record keeping with structured digital forms and accessible operational information.
-
-**Key Areas**
-
-- Digital checklist workflows
-- Form-based data entry
-- Checklist record management
-- Operational information organization
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 4. 4M Change Management System
-**[View Repository →](https://github.com/CommitCraft/4M_Change_Module)**
-
-A change management application for documenting and reviewing changes involving **Man, Machine, Material, and Method**. It supports a structured approval workflow so changes can be submitted, reviewed, and tracked by the appropriate roles.
-
-**Key Areas**
-
-- 4M change requests
-- Multi-level approval workflows
-- Role-based access control
-- Change tracking and audit logs
-
-**Technologies:** React, Node.js, Express.js, MySQL, Sequelize
+| # | Project | Short details | Repository |
+|---:|---|---|---|
+| 1 | **MES / Operations Dashboard** | Manufacturing operations, machine flows, user permissions, and Node-RED integration. | [ukb_server_dashboard](https://github.com/CommitCraft/ukb_server_dashboard) |
+| 2 | **Quality Management System (QMS)** | Quality records, CRUD modules, reports, access control, and a MySQL-backed dashboard. | [QMS](https://github.com/CommitCraft/QMS-Quality-Management-System) |
+| 3 | **EMS / Manufacturing Execution System** | React and TypeScript frontend with an Express and MySQL backend. | [EMS](https://github.com/CommitCraft/EMS) |
+| 4 | **Digital CheckSheet** | Manufacturing inspection and digital checklist solution; see the repository for verified details. | [Digital_CheckSheet](https://github.com/CommitCraft/Digital_CheckSheet) |
+| 5 | **4M Change Management** | Workflow for changes involving Man, Machine, Material, and Method. | [4M_Change_Module](https://github.com/CommitCraft/4M_Change_Module) |
+| 6 | **CMS / CRM Admin Platform** | User management, RBAC, activity logs, charts, and system monitoring. | [CMSCRM1](https://github.com/CommitCraft/CMSCRM1) |
+| 7 | **CRM Platform** | Customer relationship management; inspect the repository for exact modules. | [CRM](https://github.com/CommitCraft/CRM) |
+| 8 | **Main Final CRM** | CRM/CMS-style application with dashboard, permissions, and monitoring features. | [Main-Final-CRM](https://github.com/CommitCraft/Main-Final-CRM) |
+| 9 | **Ticket Management** | Helpdesk tickets, assignment, replies, notifications, reports, and audit logs. | [Ticket_Management](https://github.com/CommitCraft/Ticket_Management) |
+| 10 | **Visitor Management System** | Visitor registration, role-specific access, visitor passes, reports, and dashboard. | [visitor-management-system-react-main](https://github.com/CommitCraft/visitor-management-system-react-main) |
+| 11 | **Server Dashboard** | Server and operational dashboard; see the repository for verified functionality. | [Dashborad_server](https://github.com/CommitCraft/Dashborad_server) |
+| 12 | **Saral Test Panel Dashboard** | Test application dashboard with documentation and log-book/shift reporting context. | [Saral-test-penal-Dashboard](https://github.com/CommitCraft/Saral-test-penal-Dashboard) |
 
 ### 💼 Business & Productivity Applications
 
-#### 1. FinCore
-**[View Repository →](https://github.com/CommitCraft/FinCore)**
+| # | Project | Short details | Repository |
+|---:|---|---|---|
+| 13 | **FinCore Finance Management** | Expense reports, salary advance requests, approval workflows, and role-based access. | [FinCore](https://github.com/CommitCraft/FinCore) |
+| 14 | **Expense Tracker** | MERN application for income, expenses, and financial summaries. | [Expense-Tracker-App](https://github.com/CommitCraft/Expense-Tracker-App) |
+| 15 | **Task Manager** | Team task assignment, priorities, subtasks, collaboration, and admin controls. | [taskmanager](https://github.com/CommitCraft/taskmanager) |
+| 16 | **Brain Squad** | Task management, user profiles, friend requests, and social collaboration. | [Hackathon-Project](https://github.com/CommitCraft/Hackathon-Project) |
+| 17 | **Google Drive Clone** | File upload, folder organization, deletion, and responsive file navigation. | [google-drive](https://github.com/CommitCraft/google-drive) |
+| 18 | **JobNotifier** | Scrapes job notifications and sends scheduled alerts to WhatsApp groups. | [JobNotifier](https://github.com/CommitCraft/JobNotifier) |
+| 19 | **Doctor Appointment App** | MERN-based appointment application; see the repository for verified features. | [Doctor-Appointment-Web-using-MERN-Stack](https://github.com/CommitCraft/Doctor-Appointment-Web-using-MERN-Stack) |
+| 20 | **Food Tiffin Application** | Food-service website with a documented live demo. | [food_tiffin](https://github.com/CommitCraft/food_tiffin) |
 
-A finance management application for tracking expenses, managing financial records, and supporting employee or user-facing financial workflows. It is structured around maintaining clear and organized financial operations.
+### 🌐 Web, Mobile & Interactive Projects
 
-**Key Areas**
-
-- Expense tracking
-- Financial reporting
-- Salary advance requests
-- Administrative approval workflows
-
-**Technologies:** React, Node.js, Express.js, MySQL, MongoDB
-
-#### 2. Ticket Management System
-**[View Repository →](https://github.com/CommitCraft/Ticket_Management)**
-
-A helpdesk and ticketing application for managing service requests from creation to resolution. It supports structured communication, assignment, updates, and record keeping in a team environment.
-
-**Key Areas**
-
-- Ticket assignment
-- Team collaboration
-- Response tracking
-- Support workflow management
-
-**Technologies:** React, Node.js, Express.js, MongoDB
-
-#### 3. Task Manager
-**[View Repository →](https://github.com/CommitCraft/taskmanager)**
-
-A task management solution designed to help teams organize work items, assign responsibilities, and track progress over time. It supports collaborative project coordination with a focus on clarity and visibility.
-
-**Key Areas**
-
-- Task assignment
-- Prioritization and progress tracking
-- Team collaboration
-- Activity visibility
-
-**Technologies:** React, Node.js, Express.js, MongoDB
-
-#### 4. Expense Tracker
-**[View Repository →](https://github.com/CommitCraft/Expense-Tracker-App)**
-
-A personal finance tracker for recording income and expenses while keeping transaction data organized and easy to review. It is designed to help users monitor spending patterns and maintain a clear financial overview.
-
-**Key Areas**
-
-- Income and expense tracking
-- Transaction organization
-- Budget awareness
-- Financial overview
-
-**Technologies:** React, Node.js, Express.js, MongoDB
-
-### 🌐 Websites & Web Applications
-
-#### 1. Vedixa Technologies Website
-**[View Repository →](https://github.com/CommitCraft/Vedixa-Technologies-New)**
-
-A corporate website project focused on presenting business services and company details through a modern, responsive interface.
-
-**Key Areas**
-
-- Business presentation
-- Service showcasing
-- Responsive layout
-- UI components
-
-**Technologies:** React, Vite, Tailwind CSS
-
-#### 2. Aplos Logix Website
-**[View Repository →](https://github.com/CommitCraft/Aplos-Logix-New-Website)**
-
-A business website showcasing services and organizational information using a professional digital presence and a user-friendly interface.
-
-**Key Areas**
-
-- Service presentation
-- Responsive website design
-- Navigation and content structure
-- Frontend development
-
-**Technologies:** React, Vite, Tailwind CSS
-
-#### 3. Visitor Management System
-**[View Repository →](https://github.com/CommitCraft/visitor-management-system-react-main)**
-
-A visitor management web application focused on organizing visitor records, checking in users, and supporting operational administration tasks.
-
-**Key Areas**
-
-- Visitor data management
-- Record organization
-- Administrative workflows
-- Digital visitor tracking
-
-**Technologies:** React, Node.js, Express.js, MongoDB
+| # | Project | Short details | Repository |
+|---:|---|---|---|
+| 21 | **Aplos Logix Website** | Industrial IIoT website featuring solutions, industries, technology, and case studies. | [Aplos-Logix-New-Website](https://github.com/CommitCraft/Aplos-Logix-New-Website) |
+| 22 | **Portfolio Dashboard** | Portfolio/dashboard project; see the repository for its screens and features. | [Dashbord_Portfolio](https://github.com/CommitCraft/Dashbord_Portfolio) |
+| 23 | **Image Gallery** | React Native mobile image-gallery project. | [ImageGallery](https://github.com/CommitCraft/ImageGallery) |
+| 24 | **Video Player** | Kotlin-based Android video-player project. | [Video_Player](https://github.com/CommitCraft/Video_Player) |
+| 25 | **MinexNetwork** | React Native application starter repository; see the repository for verified functionality. | [MinexNetwork](https://github.com/CommitCraft/MinexNetwork) |
 
 ## 🎯 Areas of Interest
 
