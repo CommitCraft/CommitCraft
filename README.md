@@ -117,336 +117,211 @@ and industrial monitoring dashboards that solve real-world problems.
 
 ## 🚀 Featured Projects
 
+> Project thumbnails are custom concept previews based on each repository summary; they are not screenshots of the live applications.
+
 ### 🏭 Manufacturing, Quality & Industrial Systems
 
-#### 1. MES / Operations Dashboard
-**[View Repository →](https://github.com/CommitCraft/ukb_server_dashboard)**
-
-A manufacturing operations dashboard for production operations, machine flows, and monitoring. It includes user permissions and integration with Node-RED.
-
-**Key Areas**
-
-- Manufacturing operations and machine flows
-- Dashboard-based production monitoring
-- User permissions
-- Node-RED integration
-
-**Technologies:** React, Vite, Node.js, Express.js, MySQL, Node-RED
-
-#### 2. Quality Management System (QMS)
-**[View Repository →](https://github.com/CommitCraft/QMS-Quality-Management-System)**
-
-A quality management application for maintaining quality records, managing CRUD modules, generating reports, and presenting MySQL-backed information in a dashboard.
-
-**Key Areas**
-
-- Quality records and CRUD modules
-- Reports and dashboard
-- Access control
-- MySQL-backed data
-
-**Technologies:** React, TypeScript, Node.js, Express.js, MySQL, Sequelize
-
-#### 3. EMS / Manufacturing Execution System
-**[View Repository →](https://github.com/CommitCraft/EMS)**
-
-A manufacturing execution system with a React and TypeScript frontend and an Express and MySQL backend.
-
-**Key Areas**
-
-- Manufacturing execution workflows
-- Typed React frontend
-- Backend API
-- MySQL data storage
-
-**Technologies:** React, TypeScript, Express.js, MySQL
-
-#### 4. Digital CheckSheet
-**[View Repository →](https://github.com/CommitCraft/Digital_CheckSheet)**
-
-A manufacturing inspection and digital checklist project. Refer to the repository for implementation details.
-
-**Key Areas**
-
-- Manufacturing inspection
-- Digital checklists
-- Structured operational records
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 5. 4M Change Management
-**[View Repository →](https://github.com/CommitCraft/4M_Change_Module)**
-
-A change management application for documenting and reviewing changes involving **Man, Machine, Material, and Method**, with workflows to submit, review, and track changes.
-
-**Key Areas**
-
-- 4M change requests
-- Review and approval workflows
-- Role-based access control
-- Change tracking and audit logs
-
-**Technologies:** React, Node.js, Express.js, MySQL, Sequelize
-
-#### 6. CMS / CRM Admin Platform
-**[View Repository →](https://github.com/CommitCraft/CMSCRM1)**
-
-An administration platform for managing users and access, with activity logs, charts, and system monitoring.
-
-**Key Areas**
-
-- User management and RBAC
-- Activity logs
-- Charts and dashboard
-- System monitoring
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 7. CRM Platform
-**[View Repository →](https://github.com/CommitCraft/CRM)**
-
-A customer relationship management project. Refer to the repository for its exact modules and feature details.
-
-**Key Areas**
-
-- Customer relationship management
-- See repository for confirmed modules
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 8. Main Final CRM
-**[View Repository →](https://github.com/CommitCraft/Main-Final-CRM)**
-
-A CRM/CMS-style application with dashboard, permissions, and monitoring features.
-
-**Key Areas**
-
-- CRM/CMS dashboard
-- Permissions
-- System monitoring
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 9. Ticket Management
-**[View Repository →](https://github.com/CommitCraft/Ticket_Management)**
-
-A helpdesk application for handling tickets from assignment and replies through notifications and reporting.
-
-**Key Areas**
-
-- Ticket assignment and replies
-- Notifications
-- Reports
-- Audit logs
-
-**Technologies:** React, Node.js, Express.js, MongoDB
-
-#### 10. Visitor Management System
-**[View Repository →](https://github.com/CommitCraft/visitor-management-system-react-main)**
-
-A visitor management application for registration, visitor passes, role-specific access, reports, and dashboard operations.
-
-**Key Areas**
-
-- Visitor registration and records
-- Role-specific access
-- Visitor passes
-- Reports and dashboard
-
-**Technologies:** React, Node.js, Express.js, MongoDB
-
-#### 11. Server Dashboard
-**[View Repository →](https://github.com/CommitCraft/Dashborad_server)**
-
-A server and operational dashboard project. Refer to the repository for verified functionality and implementation details.
-
-**Key Areas**
-
-- Server and operational dashboard
-- See repository for confirmed functionality
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 12. Saral Test Panel Dashboard
-**[View Repository →](https://github.com/CommitCraft/Saral-test-penal-Dashboard)**
-
-A test application dashboard with documentation relating to log-book and shift reporting.
-
-**Key Areas**
-
-- Test panel dashboard
-- Log-book context
-- Shift reporting
-
-**Technologies:** See the repository for the confirmed implementation stack.
+<table>
+<tr>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/ukb_server_dashboard"><img src="assets/project-previews/mes-operations-dashboard.svg" width="100%" alt="Concept preview for MES / Operations Dashboard" /></a>
+<h4>1. <a href="https://github.com/CommitCraft/ukb_server_dashboard">MES / Operations Dashboard</a></h4>
+<p>A manufacturing operations dashboard for production operations, machine flows, and monitoring. It includes user permissions and integration with Node-RED.</p>
+<p><code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express.js</code> <code>MySQL</code> <code>Node-RED</code></p>
+<p><a href="https://github.com/CommitCraft/ukb_server_dashboard"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/QMS-Quality-Management-System"><img src="assets/project-previews/quality-management-system.svg" width="100%" alt="Concept preview for Quality Management System (QMS)" /></a>
+<h4>2. <a href="https://github.com/CommitCraft/QMS-Quality-Management-System">Quality Management System (QMS)</a></h4>
+<p>A quality management application for maintaining quality records, managing CRUD modules, generating reports, and presenting MySQL-backed information in a dashboard.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express.js</code> <code>MySQL</code> <code>Sequelize</code></p>
+<p><a href="https://github.com/CommitCraft/QMS-Quality-Management-System"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/EMS"><img src="assets/project-previews/ems-manufacturing-execution.svg" width="100%" alt="Concept preview for EMS / Manufacturing Execution System" /></a>
+<h4>3. <a href="https://github.com/CommitCraft/EMS">EMS / Manufacturing Execution System</a></h4>
+<p>A manufacturing execution system with a React and TypeScript frontend and an Express and MySQL backend.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Express.js</code> <code>MySQL</code></p>
+<p><a href="https://github.com/CommitCraft/EMS"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/Digital_CheckSheet"><img src="assets/project-previews/digital-checksheet.svg" width="100%" alt="Concept preview for Digital CheckSheet" /></a>
+<h4>4. <a href="https://github.com/CommitCraft/Digital_CheckSheet">Digital CheckSheet</a></h4>
+<p>A manufacturing inspection and digital checklist project. Refer to the repository for implementation details.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/Digital_CheckSheet"><strong>View Repository →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/4M_Change_Module"><img src="assets/project-previews/4m-change-management.svg" width="100%" alt="Concept preview for 4M Change Management" /></a>
+<h4>5. <a href="https://github.com/CommitCraft/4M_Change_Module">4M Change Management</a></h4>
+<p>A change management application for documenting and reviewing changes involving <strong>Man, Machine, Material, and Method</strong>, with workflows to submit, review, and track changes.</p>
+<p><code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MySQL</code> <code>Sequelize</code></p>
+<p><a href="https://github.com/CommitCraft/4M_Change_Module"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/CMSCRM1"><img src="assets/project-previews/cms-crm-admin-platform.svg" width="100%" alt="Concept preview for CMS / CRM Admin Platform" /></a>
+<h4>6. <a href="https://github.com/CommitCraft/CMSCRM1">CMS / CRM Admin Platform</a></h4>
+<p>An administration platform for managing users and access, with activity logs, charts, and system monitoring.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/CMSCRM1"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/CRM"><img src="assets/project-previews/crm-platform.svg" width="100%" alt="Concept preview for CRM Platform" /></a>
+<h4>7. <a href="https://github.com/CommitCraft/CRM">CRM Platform</a></h4>
+<p>A customer relationship management project. Refer to the repository for its exact modules and feature details.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/CRM"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/Main-Final-CRM"><img src="assets/project-previews/main-final-crm.svg" width="100%" alt="Concept preview for Main Final CRM" /></a>
+<h4>8. <a href="https://github.com/CommitCraft/Main-Final-CRM">Main Final CRM</a></h4>
+<p>A CRM/CMS-style application with dashboard, permissions, and monitoring features.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/Main-Final-CRM"><strong>View Repository →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/Ticket_Management"><img src="assets/project-previews/ticket-management.svg" width="100%" alt="Concept preview for Ticket Management" /></a>
+<h4>9. <a href="https://github.com/CommitCraft/Ticket_Management">Ticket Management</a></h4>
+<p>A helpdesk application for handling tickets from assignment and replies through notifications and reporting.</p>
+<p><code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code></p>
+<p><a href="https://github.com/CommitCraft/Ticket_Management"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/visitor-management-system-react-main"><img src="assets/project-previews/visitor-management-system.svg" width="100%" alt="Concept preview for Visitor Management System" /></a>
+<h4>10. <a href="https://github.com/CommitCraft/visitor-management-system-react-main">Visitor Management System</a></h4>
+<p>A visitor management application for registration, visitor passes, role-specific access, reports, and dashboard operations.</p>
+<p><code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code></p>
+<p><a href="https://github.com/CommitCraft/visitor-management-system-react-main"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/Dashborad_server"><img src="assets/project-previews/server-dashboard.svg" width="100%" alt="Concept preview for Server Dashboard" /></a>
+<h4>11. <a href="https://github.com/CommitCraft/Dashborad_server">Server Dashboard</a></h4>
+<p>A server and operational dashboard project. Refer to the repository for verified functionality and implementation details.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/Dashborad_server"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/Saral-test-penal-Dashboard"><img src="assets/project-previews/saral-test-panel-dashboard.svg" width="100%" alt="Concept preview for Saral Test Panel Dashboard" /></a>
+<h4>12. <a href="https://github.com/CommitCraft/Saral-test-penal-Dashboard">Saral Test Panel Dashboard</a></h4>
+<p>A test application dashboard with documentation relating to log-book and shift reporting.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/Saral-test-penal-Dashboard"><strong>View Repository →</strong></a></p>
+</td>
+</tr>
+</table>
 
 ### 💼 Business & Productivity Applications
 
-#### 13. FinCore Finance Management
-**[View Repository →](https://github.com/CommitCraft/FinCore)**
-
-A finance management application for expense reports, salary advance requests, and financial workflows with role-based access.
-
-**Key Areas**
-
-- Expense tracking and reports
-- Salary advance requests
-- Approval workflows
-- Role-based access
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 14. Expense Tracker
-**[View Repository →](https://github.com/CommitCraft/Expense-Tracker-App)**
-
-A MERN application for recording income and expenses and viewing financial summaries.
-
-**Key Areas**
-
-- Income and expense tracking
-- Transaction organization
-- Financial summaries
-
-**Technologies:** MongoDB, Express.js, React, Node.js
-
-#### 15. Task Manager
-**[View Repository →](https://github.com/CommitCraft/taskmanager)**
-
-A team task management application for assigning work, organizing priorities and subtasks, and collaborating with administrative controls.
-
-**Key Areas**
-
-- Team task assignment
-- Priorities and subtasks
-- Collaboration
-- Admin controls
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 16. Brain Squad
-**[View Repository →](https://github.com/CommitCraft/Hackathon-Project)**
-
-A social collaboration project combining task management with user profiles and friend requests.
-
-**Key Areas**
-
-- Task management
-- User profiles
-- Friend requests
-- Social collaboration
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 17. Google Drive Clone
-**[View Repository →](https://github.com/CommitCraft/google-drive)**
-
-A file management application with upload, folder organization, deletion, and responsive file navigation.
-
-**Key Areas**
-
-- File upload and deletion
-- Folder organization
-- Responsive file navigation
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 18. JobNotifier
-**[View Repository →](https://github.com/CommitCraft/JobNotifier)**
-
-A job notification project that scrapes job listings and sends scheduled alerts to WhatsApp groups.
-
-**Key Areas**
-
-- Job notification scraping
-- Scheduled alerts
-- WhatsApp group delivery
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 19. Doctor Appointment App
-**[View Repository →](https://github.com/CommitCraft/Doctor-Appointment-Web-using-MERN-Stack)**
-
-A MERN-based doctor appointment application. Refer to the repository for its exact features.
-
-**Key Areas**
-
-- Doctor appointment application
-- See repository for confirmed features
-
-**Technologies:** MongoDB, Express.js, React, Node.js
-
-#### 20. Food Tiffin Application
-**[View Repository →](https://github.com/CommitCraft/food_tiffin)**
-
-A food-service website with a documented live demo.
-
-**Key Areas**
-
-- Food-service website
-- Live demo
-
-**Technologies:** See the repository for the confirmed implementation stack.
+<table>
+<tr>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/FinCore"><img src="assets/project-previews/fincore-finance-management.svg" width="100%" alt="Concept preview for FinCore Finance Management" /></a>
+<h4>13. <a href="https://github.com/CommitCraft/FinCore">FinCore Finance Management</a></h4>
+<p>A finance management application for expense reports, salary advance requests, and financial workflows with role-based access.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/FinCore"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/Expense-Tracker-App"><img src="assets/project-previews/expense-tracker.svg" width="100%" alt="Concept preview for Expense Tracker" /></a>
+<h4>14. <a href="https://github.com/CommitCraft/Expense-Tracker-App">Expense Tracker</a></h4>
+<p>A MERN application for recording income and expenses and viewing financial summaries.</p>
+<p><code>MongoDB</code> <code>Express.js</code> <code>React</code> <code>Node.js</code></p>
+<p><a href="https://github.com/CommitCraft/Expense-Tracker-App"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/taskmanager"><img src="assets/project-previews/task-manager.svg" width="100%" alt="Concept preview for Task Manager" /></a>
+<h4>15. <a href="https://github.com/CommitCraft/taskmanager">Task Manager</a></h4>
+<p>A team task management application for assigning work, organizing priorities and subtasks, and collaborating with administrative controls.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/taskmanager"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/Hackathon-Project"><img src="assets/project-previews/brain-squad.svg" width="100%" alt="Concept preview for Brain Squad" /></a>
+<h4>16. <a href="https://github.com/CommitCraft/Hackathon-Project">Brain Squad</a></h4>
+<p>A social collaboration project combining task management with user profiles and friend requests.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/Hackathon-Project"><strong>View Repository →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/google-drive"><img src="assets/project-previews/google-drive-clone.svg" width="100%" alt="Concept preview for Google Drive Clone" /></a>
+<h4>17. <a href="https://github.com/CommitCraft/google-drive">Google Drive Clone</a></h4>
+<p>A file management application with upload, folder organization, deletion, and responsive file navigation.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/google-drive"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/JobNotifier"><img src="assets/project-previews/jobnotifier.svg" width="100%" alt="Concept preview for JobNotifier" /></a>
+<h4>18. <a href="https://github.com/CommitCraft/JobNotifier">JobNotifier</a></h4>
+<p>A job notification project that scrapes job listings and sends scheduled alerts to WhatsApp groups.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/JobNotifier"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/Doctor-Appointment-Web-using-MERN-Stack"><img src="assets/project-previews/doctor-appointment-app.svg" width="100%" alt="Concept preview for Doctor Appointment App" /></a>
+<h4>19. <a href="https://github.com/CommitCraft/Doctor-Appointment-Web-using-MERN-Stack">Doctor Appointment App</a></h4>
+<p>A MERN-based doctor appointment application. Refer to the repository for its exact features.</p>
+<p><code>MongoDB</code> <code>Express.js</code> <code>React</code> <code>Node.js</code></p>
+<p><a href="https://github.com/CommitCraft/Doctor-Appointment-Web-using-MERN-Stack"><strong>View Repository →</strong></a></p>
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/CommitCraft/food_tiffin"><img src="assets/project-previews/food-tiffin-application.svg" width="100%" alt="Concept preview for Food Tiffin Application" /></a>
+<h4>20. <a href="https://github.com/CommitCraft/food_tiffin">Food Tiffin Application</a></h4>
+<p>A food-service website with a documented live demo.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/food_tiffin"><strong>View Repository →</strong></a></p>
+</td>
+</tr>
+</table>
 
 ### 🌐 Web, Mobile & Interactive Projects
 
-#### 21. Aplos Logix Website
-**[View Repository →](https://github.com/CommitCraft/Aplos-Logix-New-Website)**
-
-An Industrial IIoT website presenting solutions, industries, technologies, and case studies.
-
-**Key Areas**
-
-- Industrial IIoT solutions
-- Industries and technologies
-- Case studies
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 22. Portfolio Dashboard
-**[View Repository →](https://github.com/CommitCraft/Dashbord_Portfolio)**
-
-A portfolio and dashboard project. Refer to the repository for its screens and features.
-
-**Key Areas**
-
-- Portfolio/dashboard
-- See repository for confirmed screens and features
-
-**Technologies:** See the repository for the confirmed implementation stack.
-
-#### 23. Image Gallery
-**[View Repository →](https://github.com/CommitCraft/ImageGallery)**
-
-A React Native mobile image-gallery project.
-
-**Key Areas**
-
-- Mobile image gallery
-
-**Technologies:** React Native
-
-#### 24. Video Player
-**[View Repository →](https://github.com/CommitCraft/Video_Player)**
-
-An Android video-player project built with Kotlin.
-
-**Key Areas**
-
-- Android video playback
-
-**Technologies:** Kotlin, Android
-
-#### 25. MinexNetwork
-**[View Repository →](https://github.com/CommitCraft/MinexNetwork)**
-
-A React Native application starter repository. Refer to the repository for verified functionality.
-
-**Key Areas**
-
-- React Native application starter
-- See repository for confirmed functionality
-
-**Technologies:** React Native
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/CommitCraft/Aplos-Logix-New-Website"><img src="assets/project-previews/aplos-logix-website.svg" width="100%" alt="Concept preview for Aplos Logix Website" /></a>
+<h4>21. <a href="https://github.com/CommitCraft/Aplos-Logix-New-Website">Aplos Logix Website</a></h4>
+<p>An Industrial IIoT website presenting solutions, industries, technologies, and case studies.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/Aplos-Logix-New-Website"><strong>View Repository →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/CommitCraft/Dashbord_Portfolio"><img src="assets/project-previews/portfolio-dashboard.svg" width="100%" alt="Concept preview for Portfolio Dashboard" /></a>
+<h4>22. <a href="https://github.com/CommitCraft/Dashbord_Portfolio">Portfolio Dashboard</a></h4>
+<p>A portfolio and dashboard project. Refer to the repository for its screens and features.</p>
+<p><code>Stack details in repository</code></p>
+<p><a href="https://github.com/CommitCraft/Dashbord_Portfolio"><strong>View Repository →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/CommitCraft/ImageGallery"><img src="assets/project-previews/image-gallery.svg" width="100%" alt="Concept preview for Image Gallery" /></a>
+<h4>23. <a href="https://github.com/CommitCraft/ImageGallery">Image Gallery</a></h4>
+<p>A React Native mobile image-gallery project.</p>
+<p><code>React Native</code></p>
+<p><a href="https://github.com/CommitCraft/ImageGallery"><strong>View Repository →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/CommitCraft/Video_Player"><img src="assets/project-previews/video-player.svg" width="100%" alt="Concept preview for Video Player" /></a>
+<h4>24. <a href="https://github.com/CommitCraft/Video_Player">Video Player</a></h4>
+<p>An Android video-player project built with Kotlin.</p>
+<p><code>Kotlin</code> <code>Android</code></p>
+<p><a href="https://github.com/CommitCraft/Video_Player"><strong>View Repository →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/CommitCraft/MinexNetwork"><img src="assets/project-previews/minexnetwork.svg" width="100%" alt="Concept preview for MinexNetwork" /></a>
+<h4>25. <a href="https://github.com/CommitCraft/MinexNetwork">MinexNetwork</a></h4>
+<p>A React Native application starter repository. Refer to the repository for verified functionality.</p>
+<p><code>React Native</code></p>
+<p><a href="https://github.com/CommitCraft/MinexNetwork"><strong>View Repository →</strong></a></p>
+</td>
+</tr>
+</table>
 
 ## 🎯 Areas of Interest
 
