@@ -14,6 +14,10 @@ and industrial monitoring dashboards that solve real-world problems.
 [![GitHub](https://img.shields.io/badge/GitHub-@CommitCraft-181717?style=for-the-badge&logo=github)](https://github.com/CommitCraft)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vipinkushwaha01/)
 
+<div align="center">
+  <img src="assets/github-profile-banner.png" width="100%" alt="Vipin Kushwaha developer portfolio banner" />
+</div>
+
 </div>
 
 ---
