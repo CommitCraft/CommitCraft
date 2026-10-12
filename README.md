@@ -1,135 +1,188 @@
 <div align="center">
 
-# Hi, I'm Vipin Kushwaha 👋
+### 👋 Hey there! I'm
 
-### Software Engineer · Full-Stack Developer · MERN Stack · Industrial IoT
+# Vipin Kushwaha
 
-**Building practical web applications, business systems, and industrial monitoring solutions.**
+**Software Engineer | Full-Stack Developer | MERN Stack | Industrial IoT**
 
-[![GitHub](https://img.shields.io/badge/GitHub-CommitCraft-181717?style=for-the-badge&logo=github)](https://github.com/CommitCraft)
+I build full-stack web applications, business management systems, workflow automation tools,<br>
+and industrial monitoring dashboards that solve real-world problems.
+
+[![Location](https://img.shields.io/badge/📍_Lucknow,_India-111827?style=for-the-badge)](#)
+[![Email](https://img.shields.io/badge/✉️_Email-111827?style=for-the-badge)](mailto:vipinkushwaha2108@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@CommitCraft-181717?style=for-the-badge&logo=github)](https://github.com/CommitCraft)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vipinkushwaha01/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipinkushwaha2108@gmail.com)
 
 </div>
 
 ---
 
-## 🖼️ Profile Overview
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Vipin Kushwaha — GitHub profile overview](assets/github-profile-banner.png)
+<h2>👨‍💻 About Me</h2>
 
-> The banner is a visual overview. For accurate project details and links, use the sections below.
+<p>I'm a software engineer focused on developing practical, maintainable, and user-friendly software solutions. My experience spans frontend development, backend APIs, database-driven applications, business workflows, and industrial automation.</p>
 
-## 👨‍💻 About Me
+<ul>
+  <li>💻 Full-stack web development</li>
+  <li>🔌 REST APIs and database integration</li>
+  <li>🏭 Manufacturing dashboards and Industrial IoT</li>
+  <li>🔐 Authentication, role-based access, and workflows</li>
+</ul>
 
-I'm a software engineer focused on building maintainable, user-friendly applications and systems. My work spans frontend development, backend APIs, database-driven applications, workflow systems, and industrial automation.
+</td>
+<td width="50%" valign="top">
 
-- 💻 Full-stack web development with React, JavaScript, TypeScript, and Node.js
-- 🔌 REST API development and database integration
-- 🏭 Manufacturing dashboards, quality systems, and Industrial IoT
-- 🔐 Authentication, role-based access, and approval workflows
-- 📊 Reporting interfaces and operational dashboards
-- 📱 Android development with Kotlin and Java
+<h2>⚙️ Tech Stack</h2>
 
-## 🛠️ Technical Skills
+<p><strong>🖥️ Frontend</strong><br>React · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS</p>
+<p><strong>🧩 Backend</strong><br>Node.js · Express.js · REST APIs</p>
+<p><strong>🗄️ Databases</strong><br>MongoDB · MySQL · Sequelize · Firebase · SQLite</p>
+<p><strong>📱 Mobile</strong><br>Android · Kotlin · Java · React Native</p>
+<p><strong>🏭 Industrial IoT</strong><br>Node-RED · Modbus · Chart.js</p>
+<p><strong>🛠️ Tools &amp; Deployment</strong><br>Git · GitHub · Postman · PowerShell · Vercel · Netlify · Render</p>
 
-| Area | Technologies |
-|---|---|
-| Frontend | React, JavaScript, TypeScript, Next.js, HTML5, CSS3 |
-| UI & Styling | Tailwind CSS, Bootstrap, Redux, Vite |
-| Backend | Node.js, Express.js, REST APIs, JWT |
-| Databases | MongoDB, MySQL, Sequelize, Firebase, SQLite |
-| Mobile | Android, Kotlin, Java, React Native |
-| Industrial IoT | Node-RED, Modbus, Chart.js |
-| Tools | Git, GitHub, Postman, PowerShell |
-| Deployment | Vercel, Netlify, Render |
+</td>
+</tr>
+</table>
 
-*Technologies vary by project. Please check each repository for its exact implementation.*
+## 📊 GitHub Stats
 
----
+<div align="center">
+
+<a href="https://github.com/CommitCraft">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CommitCraft&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="CommitCraft's GitHub stats" />
+</a>
+<a href="https://github.com/CommitCraft">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommitCraft&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</a>
+
+</div>
 
 ## 🚀 Featured Projects
 
 ### 🏭 Manufacturing, Quality & Industrial Systems
 
-#### [UKB Server Dashboard](https://github.com/CommitCraft/ukb_server_dashboard)
-A manufacturing operations dashboard designed to centralize operational information and integrate backend services with industrial automation workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** Operational dashboards, API integration, manufacturing data visibility, and Node-RED integration.
+<h3><a href="https://github.com/CommitCraft/ukb_server_dashboard">UKB Server Dashboard</a></h3>
+<p>Manufacturing operations dashboard for real-time monitoring and industrial integration.</p>
 
-#### [Quality Management System (QMS)](https://github.com/CommitCraft/QMS-Quality-Management-System)
-A web-based application for organizing quality records, managing quality-related workflows, and supporting reporting and administrative operations.
+<p><code>Operations</code> <code>Dashboards</code> <code>Industrial IoT</code></p>
 
-**Focus:** Quality workflows, record management, reporting, administration, and access control.
+</td>
+<td width="50%" valign="top">
 
-#### [Digital CheckSheet](https://github.com/CommitCraft/Digital_CheckSheet)
-A digital checklist project focused on structuring checklist activities and maintaining operational records through a web-based workflow.
+<h3><a href="https://github.com/CommitCraft/QMS-Quality-Management-System">Quality Management System (QMS)</a></h3>
+<p>Quality workflows, records, reporting, and administration in one web application.</p>
 
-**Focus:** Digital forms, checklist records, data entry, and operational information management.
+<p><code>Quality</code> <code>Workflows</code> <code>Reporting</code></p>
 
-#### [4M Change Management System](https://github.com/CommitCraft/4M_Change_Module)
-A change management system for documenting and reviewing changes involving **Man, Machine, Material, and Method**, with structured review and approval workflows.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** 4M change requests, multi-level approvals, role-based access control, and audit logs.
+<h3><a href="https://github.com/CommitCraft/Digital_CheckSheet">Digital CheckSheet</a></h3>
+<p>Digital checklist application for structured operational records and workflow management.</p>
+
+<p><code>Digital Forms</code> <code>Operations</code> <code>Records</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/CommitCraft/4M_Change_Module">4M Change Management</a></h3>
+<p>Change management for Man, Machine, Material, and Method, with review and approval workflows.</p>
+
+<p><code>Manufacturing</code> <code>Approvals</code> <code>Role-based Access</code></p>
+
+</td>
+</tr>
+</table>
 
 ### 💼 Business & Productivity Applications
 
-#### [FinCore — Finance Management](https://github.com/CommitCraft/FinCore)
-A finance management application for organizing expenses and supporting financial workflows, including expense reporting and salary-advance requests.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** Expense tracking, financial reports, advance requests, and administrative approvals.
+<h3><a href="https://github.com/CommitCraft/FinCore">FinCore</a></h3>
+<p>Finance management application for expense tracking, reports, and salary-advance requests.</p>
 
-#### [Ticket Management System](https://github.com/CommitCraft/Ticket_Management)
-A helpdesk application that organizes support requests from creation and assignment through discussion and follow-up.
+<p><code>Finance</code> <code>Expense Tracking</code> <code>Reports</code></p>
 
-**Focus:** Ticket assignment, replies, notifications, reporting, audit logs, and role-based permissions.
+</td>
+<td width="50%" valign="top">
 
-#### [Task Manager](https://github.com/CommitCraft/taskmanager)
-A task management application for organizing work, assigning responsibilities, and tracking task details and priorities.
+<h3><a href="https://github.com/CommitCraft/Ticket_Management">Ticket Management System</a></h3>
+<p>Helpdesk system for ticket creation, assignment, replies, notifications, and reporting.</p>
 
-**Focus:** Task assignment, priorities, subtasks, comments, and team collaboration.
+<p><code>Helpdesk</code> <code>Team Workflows</code> <code>Support</code></p>
 
-#### [Expense Tracker](https://github.com/CommitCraft/Expense-Tracker-App)
-A personal finance application for recording income and expenses and keeping transaction information organized.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** Income and expense records, transaction management, and spending overview.
+<h3><a href="https://github.com/CommitCraft/taskmanager">Task Manager</a></h3>
+<p>Task organization and assignment for teams, with priorities, subtasks, and collaboration.</p>
+
+<p><code>Task Tracking</code> <code>Collaboration</code> <code>Teams</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/CommitCraft/Expense-Tracker-App">Expense Tracker</a></h3>
+<p>Personal finance application for tracking income, expenses, and transactions.</p>
+
+<p><code>Personal Finance</code> <code>Transactions</code> <code>Tracking</code></p>
+
+</td>
+</tr>
+</table>
 
 ### 🌐 Websites & Web Applications
 
-#### [Vedixa Technologies Website](https://github.com/CommitCraft/Vedixa-Technologies-New)
-A corporate website designed to present company information, technology services, and digital solutions through a modern web interface.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Focus:** Corporate presentation, service pages, responsive layouts, and reusable UI components.
+<h3><a href="https://github.com/CommitCraft/Vedixa-Technologies-New">Vedixa Technologies</a></h3>
+<p>Corporate website with a modern UI and responsive service presentation.</p>
 
-#### [Aplos Logix Website](https://github.com/CommitCraft/Aplos-Logix-New-Website)
-A company website project focused on presenting business information and services through a professional digital presence.
+</td>
+<td width="33%" valign="top">
 
-**Focus:** Service presentation, navigation, responsive layouts, and frontend development.
+<h3><a href="https://github.com/CommitCraft/Aplos-Logix-New-Website">Aplos Logix Website</a></h3>
+<p>Professional business website for presenting company information and services.</p>
 
-#### [Visitor Management System](https://github.com/CommitCraft/visitor-management-system-react-main)
-A web application for organizing visitor information and supporting digital visitor-related administrative processes.
+</td>
+<td width="33%" valign="top">
 
-**Focus:** Visitor records, data entry, information management, and administrative workflows.
+<h3><a href="https://github.com/CommitCraft/visitor-management-system-react-main">Visitor Management System</a></h3>
+<p>Visitor information management with digital records and administrative workflows.</p>
 
----
+</td>
+</tr>
+</table>
 
 ## 🎯 Areas of Interest
 
-- Full-stack web application development
-- Enterprise dashboards and business applications
-- REST API development and database integration
-- Authentication and role-based access control
-- Workflow and approval systems
-- Manufacturing dashboards and Industrial IoT
-- Automation and operational reporting
+`Full-Stack Development` · `Enterprise Applications` · `Industrial IoT` · `API Integration`<br>
+`Workflow Automation` · `Database Design` · `Mobile Development` · `Scalable Architecture`
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [Explore all repositories](https://github.com/CommitCraft?tab=repositories)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/vipinkushwaha01/)
-- **Email:** [Contact me](mailto:vipinkushwaha2108@gmail.com)
+I'm always open to collaborating on interesting projects and opportunities to build useful technology.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-@CommitCraft-181717?style=for-the-badge&logo=github)](https://github.com/CommitCraft)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vipinkushwaha01/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipinkushwaha2108@gmail.com)
 
 <div align="center">
 
